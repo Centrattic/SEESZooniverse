@@ -1,5 +1,7 @@
 # SEESZooniverse
 
+[![DOI](https://sandbox.zenodo.org/badge/670291101.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.195)
+
 **This is the GitHub repository for the following research project:**
 _Uniting Machine Learning and Citizen Science for Automatic Land Cover Classification_
 
