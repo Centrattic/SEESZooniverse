@@ -1,0 +1,30 @@
+{
+	"license": "MIT",
+	"upload_type": "software",
+	"creators": [
+    		{
+        			"affiliation": "Rick Reedy High School, Frisco, TX 75036, USA",
+        			"name": "Oseremen Ojiefoh"
+    		},
+    		{
+        			"affiliation": "Washington-Liberty High School, Arlington, VA 22203, USA",
+        			"name": "Roayba Adhi"
+    		},
+        {
+        			"affiliation": "Phillips Exeter Academy, Exeter, NH 07078, USA",
+        			"name": "Riya Tiyagi"
+    		},
+    		{
+        			"affiliation": "Osbourn Park High School, Manassas, VA 20111, USA",
+        			"name": "Haitham Ahmad"
+    		},
+        {
+        			"affiliation": "Folsom High School, Folsom, CA 95630, USA",
+        			"name": "Lavanya Gnanakumar"
+    		},
+    		{
+        			"affiliation": "Allen High School, Allen, TX 75002, USA",
+        			"name": "Kavya Ram"
+    		}
+	]
+}
